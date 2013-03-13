@@ -12,4 +12,4 @@ pyMidi
 link to demo of race.py on a frame by frame flash file
 ======================================================
 
-* We are going to control the given flash file by midi input device. For accessing the flash file [click here.](http://www.youtube.com/watch?v=BLM7JV56GZg&feature=youtu.be)
+* To watch the youtube video for viewing the code in action [click here.](http://www.youtube.com/watch?v=BLM7JV56GZg&feature=youtu.be)
